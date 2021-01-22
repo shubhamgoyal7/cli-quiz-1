@@ -21,7 +21,7 @@ console.log("-------");
 
 var questions = [{
   question: "where do I live?",
-  answer: "Delhi",
+  answer: "Rohtak",
 }, {
   question: "my fav tv show?",
   answer: "suits",
